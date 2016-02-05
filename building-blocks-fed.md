@@ -47,6 +47,7 @@ De volgende opdrachten zou je moeten kunnen maken.
 	- JS OOP
 	- Functional programming
 =======
+>>>>>>> Stashed changes
 
 ## vragen en antwoordrichtingen
 **Opmerking:** niet alle bronnen zijn (volledig) door de docent gevolgd. Hierdoor kan er verschil zijn tussen wat de docent tijdens de colleges uitlegt en wat er in de cursus wordt uitgelegd. Ga bij verschillen altijd in overleg met je docent.
