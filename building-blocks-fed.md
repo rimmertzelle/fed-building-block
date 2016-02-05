@@ -5,7 +5,11 @@
 Front-end development.
 HTML/CSS & JavaScript en eventueel andere talen of omgevingen zijn je leidraad waarmee je front-ends bouwt voor verschillende type media. De look-and-feel, de interactie en de eventuele communicatie naar de back-end vormen hierin een eenheid.
 
-## Eisen
+## Uitdagingen
+- Als beginnende frontend developer kan ik een website maken die voldoen aan de HTML 5 en CSS 3 en ECMA 5 standaarden. 
+- Als beginnende frontend developer zorg ik er voor dat mijn code goed overdraagbaar en goed leesbaar is.
+- Als beginnende frontend developer zorg ik er voor dat mijn website goed bruikbaar is op meerdere devices.
+- Als beginnende frontend developer maak ik gebruik van diverse databronnen (webservices) voor het aanleveren van de juiste content.
 
 ### jaar 1
 - HTML 5,
@@ -28,6 +32,7 @@ HTML/CSS & JavaScript en eventueel andere talen of omgevingen zijn je leidraad w
 	- connectie met API’s, 
 	- js libraries gebruiken.
 
+<<<<<<< Updated upstream
 Voorbeelden van opdrachten
 De volgende opdrachten zou je moeten kunnen maken.
 
@@ -41,6 +46,7 @@ De volgende opdrachten zou je moeten kunnen maken.
 	- Client side JS MVC (achtig)
 	- JS OOP
 	- Functional programming
+=======
 
 ## vragen en antwoordrichtingen
 **Opmerking:** niet alle bronnen zijn (volledig) door de docent gevolgd. Hierdoor kan er verschil zijn tussen wat de docent tijdens de colleges uitlegt en wat er in de cursus wordt uitgelegd. Ga bij verschillen altijd in overleg met je docent.
@@ -72,9 +78,14 @@ Answer:
 - [quickstart JS deel 1](http://www.pluralsight.com/courses/quick-start-javascript-1-1870)
 
 **Q: Wat is Jquery en wat kan ik er mee?**
+<<<<<<< Updated upstream
 
 Answer:
 - [Jquery introductio](http://www.pluralsight.com/courses/jquery-getting-started)
+=======
+A:
+- [Jquery introduction](http://www.pluralsight.com/courses/jquery-getting-started)
+>>>>>>> Stashed changes
 
 **Q: Hoe kan ik mijn webpagina op veel verschillende schermgroottes aan laten passen?**
 
